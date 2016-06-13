@@ -1,6 +1,7 @@
-print("helloworld")
-Changed!\1
-hello
+print("helloworld");
+Changed!\1;
+hello;
+Hellomydearfriends;
+kekk;
 
-Hellomydearfriends
-kekk
+
